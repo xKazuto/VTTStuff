@@ -1,0 +1,20 @@
+{
+	"name": "the-fluffy-folio-huge-volume-01",
+	"title": "The Fluffy Folio - Huge Volume 01",
+	"description": "<p>This module provides the Volume One Huge Monsters Compendium by The Fluffy Folio. All monsters are pre-configured with sizing, portraits and tokens when dragged onto the map to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+	"version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+	"author": "The Fluffy Folio",
+	"packs": [{
+		"name": "the-fluffy-folio-huge-vol-01",
+		"label": "The Fluffy Folio - Huge Volume 01",
+		"path": "/Packs/tokens.db",
+		"type": "Actor",
+		"system": "dnd5e"
+	}],
+	"url": "https://www.patreon.com/the_fluffy_folio/",
+	"manifest": "https://www.dropbox.com/s/59khq4vthf6ikum/module.json?dl=1",
+	"download": "https://www.dropbox.com/s/nve6z4b5e1no8wm/FluffyFolio-HugeVol01.zip?dl=1"
+}
