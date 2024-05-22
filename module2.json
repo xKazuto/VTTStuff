@@ -1,0 +1,20 @@
+{
+	"name": "the-fluffy-folio-huge-volume-02",
+	"title": "The Fluffy Folio - Huge Volume 02",
+	"description": "<p>This module provides the Volume Two Huge Monsters Compendium by The Fluffy Folio. All monsters are pre-configured with sizing, portraits and tokens when dragged onto the map to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+	"version": "1.0.0",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+	"author": "The Fluffy Folio",
+	"packs": [{
+		"name": "the-fluffy-folio-huge-vol-02",
+		"label": "The Fluffy Folio - Huge Volume 02",
+		"path": "/Packs/tokens.db",
+		"type": "Actor",
+		"system": "dnd5e"
+	}],
+	"url": "https://www.patreon.com/the_fluffy_folio/",
+	"manifest": "https://www.dropbox.com/scl/fi/fxrs18et20z26zc656ip0/module.json?rlkey=alzirovtf873rp1tdgf7bv92j&dl=1",
+	"download": "https://www.dropbox.com/scl/fi/1yvghlzba76sieev250gr/FluffyFolio-HugeVol02.zip?rlkey=f8y9yk9vl28p4k5ypbu0io82m&dl=1"
+}
